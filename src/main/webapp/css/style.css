@@ -1,0 +1,30 @@
+.bg{
+	background-color: #ff80ff;
+}
+
+.custom-bg {
+	background:maroon;
+}
+
+.custom-ground{
+	background:maroon;
+	height: 55px;
+}
+
+.start_btn {
+	position: static;
+}
+
+.form-E1 {
+	width: 25px;
+	border: 2px solid maroon;
+}
+
+.form-E2 {
+	width: 1200px;
+	border: 2px solid maroon;
+}
+
+.container{
+	margin-bottom: 15px;
+}
